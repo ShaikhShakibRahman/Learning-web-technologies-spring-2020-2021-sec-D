@@ -1,0 +1,30 @@
+<Employees>
+<Employee>
+
+<NAME> John Doe </NAME>
+<UNIT PRICE> 35000 </UNIT PRICE>
+<ADDRESS> H 38 R3, Banani,Dhaka </STOCK>
+<DEPARTMENT> 1 <DEPARTMENT>
+<SALARY>20000</SALARY>
+</Employee>
+
+<Employee>
+
+<NAME> John Doe </NAME>
+<UNIT PRICE> 35000 </UNIT PRICE>
+<ADDRESS> H 38 R3, Banani,Dhaka </STOCK>
+<DEPARTMENT> 1 <DEPARTMENT>
+<SALARY>20000</SALARY>
+</Employee>
+
+
+<Employee>
+
+<NAME> John Doe </NAME>
+<UNIT PRICE> 35000 </UNIT PRICE>
+<ADDRESS> H 38 R3, Banani,Dhaka </STOCK>
+<DEPARTMENT> 1 <DEPARTMENT>
+<SALARY>20000</SALARY>
+</Employee>
+
+</Employees>
